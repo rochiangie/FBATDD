@@ -287,8 +287,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 14.2, y: -343.1}
-  m_SizeDelta: {x: 867.8, y: 736.2}
+  m_AnchoredPosition: {x: 35.43, y: -232.32}
+  m_SizeDelta: {x: 1008.22, y: 514.65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &304921347
 MonoBehaviour:
@@ -342,7 +342,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 71.35
+  m_fontSize: 64.15
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1293,8 +1293,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3.1, y: 540.7}
-  m_SizeDelta: {x: 714.2, y: 848.6}
+  m_AnchoredPosition: {x: 27.875, y: 400.15}
+  m_SizeDelta: {x: 763.75, y: 567.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &925198301
 MonoBehaviour:
@@ -2321,6 +2321,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BotonesAbajo
       objectReference: {fileID: 0}
+    - target: {fileID: 3251899257846261851, guid: 39277d2b885640342be1a38e267a9008, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4688493978246814295, guid: 39277d2b885640342be1a38e267a9008, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2383,11 +2387,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4688493978246814295, guid: 39277d2b885640342be1a38e267a9008, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1.9000244
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4688493978246814295, guid: 39277d2b885640342be1a38e267a9008, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -926.1001
+      value: -669.67
       objectReference: {fileID: 0}
     - target: {fileID: 4688493978246814295, guid: 39277d2b885640342be1a38e267a9008, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

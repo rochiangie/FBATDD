@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: a02f4a62e31ab5c41b3386f98478b2b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7562265837210539081
+    second: wikipedia-logo-grande-blanco_0
+  - first:
+      213: 6276151015629483519
+    second: wikipedia-logo-grande-blanco_1
+  - first:
+      213: 9118552454349644346
+    second: wikipedia-logo-grande-blanco_2
+  - first:
+      213: 7226652151244882510
+    second: wikipedia-logo-grande-blanco_3
+  - first:
+      213: -5370225749791863161
+    second: wikipedia-logo-grande-blanco_4
+  - first:
+      213: 1562570210310786385
+    second: wikipedia-logo-grande-blanco_5
+  - first:
+      213: -5076114316032094117
+    second: wikipedia-logo-grande-blanco_6
+  - first:
+      213: -7513980370831277940
+    second: wikipedia-logo-grande-blanco_7
+  - first:
+      213: -853570784973228069
+    second: wikipedia-logo-grande-blanco_8
+  - first:
+      213: -758890378460648796
+    second: wikipedia-logo-grande-blanco_9
+  - first:
+      213: -4544524395240455519
+    second: wikipedia-logo-grande-blanco_10
+  - first:
+      213: -2472036782656185184
+    second: wikipedia-logo-grande-blanco_11
+  - first:
+      213: 163115137933654263
+    second: wikipedia-logo-grande-blanco_12
+  - first:
+      213: -8921035662813674845
+    second: wikipedia-logo-grande-blanco_13
+  - first:
+      213: 8828642562604799680
+    second: wikipedia-logo-grande-blanco_14
+  - first:
+      213: -6388815491189792069
+    second: wikipedia-logo-grande-blanco_15
+  - first:
+      213: 2361272942618550794
+    second: wikipedia-logo-grande-blanco_16
+  - first:
+      213: -7982725395773296975
+    second: wikipedia-logo-grande-blanco_17
+  - first:
+      213: -6455317883492958197
+    second: wikipedia-logo-grande-blanco_18
+  - first:
+      213: -998948838825498177
+    second: wikipedia-logo-grande-blanco_19
+  - first:
+      213: 8955084998853423202
+    second: wikipedia-logo-grande-blanco_20
+  - first:
+      213: -4350394235825425115
+    second: wikipedia-logo-grande-blanco_21
+  - first:
+      213: 5721277137005463056
+    second: wikipedia-logo-grande-blanco_22
+  - first:
+      213: 1738120301417962144
+    second: wikipedia-logo-grande-blanco_23
+  - first:
+      213: 9184563169881926825
+    second: wikipedia-logo-grande-blanco_24
+  - first:
+      213: -888921810518430866
+    second: wikipedia-logo-grande-blanco_25
+  - first:
+      213: 3090070998297929894
+    second: wikipedia-logo-grande-blanco_26
+  - first:
+      213: -4326365458584973523
+    second: wikipedia-logo-grande-blanco_27
+  - first:
+      213: 2755214685119917387
+    second: wikipedia-logo-grande-blanco_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 149
+        width: 277
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944910c56b092f860800000000000000
+      internalID: 7562265837210539081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 83
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd6d43a81e591750800000000000000
+      internalID: 6276151015629483519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 83
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32e643252b9b8e70800000000000000
+      internalID: 9118552454349644346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 83
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e428346d7d93a4460800000000000000
+      internalID: 7226652151244882510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 83
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e000c12202975b0800000000000000
+      internalID: -5370225749791863161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 83
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d8e22d35d5fa510800000000000000
+      internalID: 1562570210310786385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 83
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50d1a98ce40e89b0800000000000000
+      internalID: -5076114316032094117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 83
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80085bd9aaf8b790800000000000000
+      internalID: -7513980370831277940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 83
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7f40bb4e18724f0800000000000000
+      internalID: -853570784973228069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 83
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa2468b831e775f0800000000000000
+      internalID: -758890378460648796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 44
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a28894f32b9ee0c0800000000000000
+      internalID: -4544524395240455519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 44
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac1412c4af81bdd0800000000000000
+      internalID: -2472036782656185184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8360e8a50834200800000000000000
+      internalID: 163115137933654263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 44
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a24661945d123480800000000000000
+      internalID: -8921035662813674845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c614f072a3a58a70800000000000000
+      internalID: 8828642562604799680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 44
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2ae10092e5657a0800000000000000
+      internalID: -6388815491189792069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0225821b3de4c020800000000000000
+      internalID: 2361272942618550794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 44
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be617dfb89a73190800000000000000
+      internalID: -7982725395773296975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 44
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b000d22369a1a66a0800000000000000
+      internalID: -6455317883492958197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 44
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96401e2550322f0800000000000000
+      internalID: -998948838825498177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 37
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26076124c5ad64c70800000000000000
+      internalID: 8955084998853423202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 44
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f7bced7b40a3c0800000000000000
+      internalID: -4350394235825425115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 44
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01646c45e3f066f40800000000000000
+      internalID: 5721277137005463056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 44
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa99e6843b0f1810800000000000000
+      internalID: 1738120301417962144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca2f58a8f167f70800000000000000
+      internalID: 9184563169881926825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 44
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba3f2b25ae9a3f0800000000000000
+      internalID: -888921810518430866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_26
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 44
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8e848733322ea20800000000000000
+      internalID: 3090070998297929894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 44
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc5889989a5f3c0800000000000000
+      internalID: -4326365458584973523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wikipedia-logo-grande-blanco_28
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 44
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d238a882d7c3620800000000000000
+      internalID: 2755214685119917387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wikipedia-logo-grande-blanco_0: 7562265837210539081
+      wikipedia-logo-grande-blanco_1: 6276151015629483519
+      wikipedia-logo-grande-blanco_10: -4544524395240455519
+      wikipedia-logo-grande-blanco_11: -2472036782656185184
+      wikipedia-logo-grande-blanco_12: 163115137933654263
+      wikipedia-logo-grande-blanco_13: -8921035662813674845
+      wikipedia-logo-grande-blanco_14: 8828642562604799680
+      wikipedia-logo-grande-blanco_15: -6388815491189792069
+      wikipedia-logo-grande-blanco_16: 2361272942618550794
+      wikipedia-logo-grande-blanco_17: -7982725395773296975
+      wikipedia-logo-grande-blanco_18: -6455317883492958197
+      wikipedia-logo-grande-blanco_19: -998948838825498177
+      wikipedia-logo-grande-blanco_2: 9118552454349644346
+      wikipedia-logo-grande-blanco_20: 8955084998853423202
+      wikipedia-logo-grande-blanco_21: -4350394235825425115
+      wikipedia-logo-grande-blanco_22: 5721277137005463056
+      wikipedia-logo-grande-blanco_23: 1738120301417962144
+      wikipedia-logo-grande-blanco_24: 9184563169881926825
+      wikipedia-logo-grande-blanco_25: -888921810518430866
+      wikipedia-logo-grande-blanco_26: 3090070998297929894
+      wikipedia-logo-grande-blanco_27: -4326365458584973523
+      wikipedia-logo-grande-blanco_28: 2755214685119917387
+      wikipedia-logo-grande-blanco_3: 7226652151244882510
+      wikipedia-logo-grande-blanco_4: -5370225749791863161
+      wikipedia-logo-grande-blanco_5: 1562570210310786385
+      wikipedia-logo-grande-blanco_6: -5076114316032094117
+      wikipedia-logo-grande-blanco_7: -7513980370831277940
+      wikipedia-logo-grande-blanco_8: -853570784973228069
+      wikipedia-logo-grande-blanco_9: -758890378460648796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
